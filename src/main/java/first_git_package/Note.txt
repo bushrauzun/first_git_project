@@ -7,3 +7,10 @@
     *git init
     *git add .
 Note: git status    -> This is our friend. to se the progress
+
+4. Create a new SECOND COMMIT
+    *Create a new java class under first_git_package: MySecondClass
+    *Create a new commit and push the code to github
+        *git add .
+        *git commit -m "added my second java class"
+        *git push
